@@ -6,10 +6,10 @@ class RepoObject {
     private ArrayList<Repo> items;
     private int total_count;
 
-    ArrayList<Repo> getItems(){
+    public ArrayList<Repo> getItems(){
         return items;
     }
 
-    int getCount(){ return total_count; }
+    public int getCount(){ return total_count; }
 
 }

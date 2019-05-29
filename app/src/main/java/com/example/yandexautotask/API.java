@@ -1,8 +1,6 @@
 package com.example.yandexautotask;
 
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
 import retrofit2.Call;
 import retrofit2.converter.gson.GsonConverterFactory;
 import retrofit2.Retrofit;
